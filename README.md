@@ -8,6 +8,7 @@ Emulation of human motion in the problem about the endless train
 Вначале свет горит случайным образом. Количество вагонов может быть ну очень большим."
 
 
+
 Краткое описание команд
 
 change  - поменять состояние вагона
